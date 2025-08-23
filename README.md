@@ -7,7 +7,7 @@ This project implements a **Vector class** in Python to represent
 vectors in an arbitrary-dimensional space. It demonstrates
 **Object-Oriented Programming (OOP)** concepts such as: - Constructors
 (`__init__`) - Encapsulation (`__getitem__`, `__setitem__`) - Operator
-overloading (`__add__`, `__len__`,`__eq__`, `__len__`, `__matmul__`) - Dunder (magic) methods - (`cross`) - 
+overloading (`__add__`, `__len__`,`__eq__`, `__len__`, `__matmul__`) - Dunder (magic) methods - (`cross`) - programmer defined functions
 
 The class allows you to create, manipulate, and perform arithmetic
 operations on vectors in a clean and Pythonic way.

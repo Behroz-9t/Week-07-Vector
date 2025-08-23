@@ -21,7 +21,7 @@ operations on vectors in a clean and Pythonic way.
 -   Get vector length (number of dimensions)\
 -   Add two vectors using `+` operator\
 -   Easy extension for more vector operations (dot product, scalar
-    multiplication, etc.)
+    multiplication, cloning.)
 
 
 ------------------------------------------------------------------------

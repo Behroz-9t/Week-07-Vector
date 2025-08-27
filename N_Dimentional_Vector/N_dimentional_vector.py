@@ -65,7 +65,7 @@ class Vector:
     
 
     def clone(self): #--> for cloning of the vector .It creates the deep copy.
-        return Vector(*self) #--> Here "*" sign is again returningevery number on different or every index. Its abscence will cause the answer or coords to be stored in first index only and the rest will be empty such as: [(1,3,2),0,0]--> here 1,3,2 are stored in 0th idex. 
+        return Vector(*self) #--> Here "*" sign is again returning every number on different or every index. Its abscence will cause the answer or coords to be stored in first index only and the rest will be empty such as: [(1,3,2),0,0]--> here 1,3,2 are stored in 0th idex. 
             
 
 

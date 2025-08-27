@@ -4,7 +4,7 @@ class Vector:
  
     def __init__ (self,*n): #--> Here *n takes the input as tuple()
     
-        self.coords=list(n) #--> The coords stores the n
+        self.coords=list(n) #--> The coords stores the n in the form of list.
         
             
 

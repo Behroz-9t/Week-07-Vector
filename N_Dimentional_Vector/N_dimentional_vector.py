@@ -6,7 +6,6 @@ class Vector:
     
         self.coords=list(n) #--> The coords stores the n in the form of list.
         
-            
 
     def __len__ (self): #--> this dunder function returns the length of the vector
         return len(self.coords)
